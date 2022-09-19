@@ -6,13 +6,13 @@ Coletânea de Mini-Projetos de Análise de Dados (uso de Pandas, Matplotlib e ou
   * **001**: Unicórnio
   * **002**: Educação
   * **003**: Magalu
-  * **004**: Mercado de Games (TO BE RELEASED)
-  * **005**: RH (TO BE RELEASED)
+  * **004**: Mercado de Games
+  * **005**: RH
   * **006**: (TO BE RELEASED)
-  * **007**: PIB per Capita (TO BE RELEASED)
+  * **007**: PIB per Capita
   * **008**: Bitcoin
   * **009**: Mercado de Energia
-  * **010**: Incêndios Florestais (TO BE RELEASED)
+  * **010**: Incêndios Florestais
 * **MicroProjects_001:** Análise de Dados de Vendas de Lojas de Roupas (4 perguntas respondidas)
 * **MiniProjects_1:** Análise de Dados de Filmes do IMDB (10 perguntas respondidas)
 * **MiniProjects_2:** Análise de Dados de Veículos (4 Partes)
